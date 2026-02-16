@@ -1,0 +1,1 @@
+# projekt-lato-2026
