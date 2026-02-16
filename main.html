@@ -1,0 +1,47 @@
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Strona główna</title>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <h1>PROJEKT LATO 2026</h1>
+                 <div id="countdown">Zostało: <span id="days">---</span> dni</div>
+        </header>
+    <section class="stats">
+        <div class="card">
+            <h3> Twoja masa</h3>
+            <div class="chart-placeholder"> <canvas id="weightChart" style="width: 100%; height: 200px;"></canvas> </div>
+            <p class="target-weight">Cel: 85 kg</p>
+        </div>
+        <div class="card">
+            <h3> Twoje kalorie na dzis </h3>
+            <div class="ring">60%</div>
+            <p> 1800 / 3000 Kcal </p>
+            </div>
+        </section>
+
+        <section class="logs">
+            <h3> Dziennik Treningowy</h3>
+            <table>
+                <tr>
+                    <th> Cwiczenie</th>
+                    <th> ciezar</th>
+                    <th> progres</th>
+                    </tr>
+                    <tr>
+                        <td> martwy ciag</td>
+                        <td> 100 kg</td>
+                        <td class="plus"> +5 kg</td>
+                    </tr>
+                </tr>
+            </table>
+        </section>
+    </section>
+ <script src="scripts.js"></script>
+</body>
+</html>
