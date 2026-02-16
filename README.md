@@ -39,7 +39,7 @@ Ponieważ jest to aplikacja statyczna, nie wymaga instalacji Node.js ani Pythona
     cd projekt-lato-2026
     ```
 
-2.  Uruchom plik `index.html` w dowolnej przeglądarce.
+2.  Uruchom plik `main.html` w dowolnej przeglądarce.
 
 ## ⚙️ Konfiguracja (Sudo Mode)
 
