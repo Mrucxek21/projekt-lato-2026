@@ -7,7 +7,6 @@
 Osobiste, "self-hosted" centrum dowodzenia do monitorowania progresu sylwetkowego. Minimalistyczny dashboard stworzony z myślą o wydajności i estetyce Dark Mode, zoptymalizowany pod monitory o wysokim odświeżaniu.
 
 ![Dashboard Preview](preview.jpeg)
-*(Tutaj wrzuć zrzut ekranu swojego dashboardu i nazwij go preview.png)*
 
 ## 🎯 Główne Funkcje
 
